@@ -85,8 +85,7 @@ Once logged in, users will be directed to a main menu based on their role. Each 
     You may use, copy, and modify the code for personal or non-profit purposes for free.
         
     If you wish to use the code in any commercial or for-profit product, you must contact the author and
-    may be required to pay a fee
-    or share profits.
+    may be required to pay a fee or share profits.
         
     © 2025 Ron Haba and Matan Sides. 
     All rights reserved.
