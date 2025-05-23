@@ -12,9 +12,9 @@ This Java project implements a role-based system that offers different functiona
 
 * Case-Sensitive Login System: Users must enter correct usernames and passwords with attention to uppercase and lowercase letters.
 * Role-Based Access:  
-        ``Students can access student-related functions (e.g., view grades, assignments, etc).``  
-        ``Lecturers can manage course-related data (e.g., updating grades, reviewing assignments, etc).``  
-        ``Administrators have full control over the system, including managing user accounts and system settings.``
+        - Students can access student-related functions (e.g., view grades, assignments, etc).  
+        - Lecturers can manage course-related data (e.g., updating grades, reviewing assignments, etc).  
+        - Administrators have full control over the system, including managing user accounts and system settings.
 * Predefined Credentials: The system comes with predefined usernames and passwords for testing purposes (see below).
 * User-Friendly Menus: Each user role has a customized menu with available options tailored to their permissions.
 
