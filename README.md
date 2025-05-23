@@ -79,11 +79,12 @@ Once logged in, users will be directed to a main menu based on their role. Each 
     The predefined usernames and passwords are for testing purposes. You can modify these in the source code if needed.
 
 # License
-
-This project is licensed under a custom license:
-You may use, copy, and modify the code for personal or non-profit purposes for free.
-
-If you wish to use the code in any commercial or for-profit product, you must contact the author and may be required to pay a fee or share profits.
-
-© 2025 Ron Haba and Matan Sides. 
-All rights reserved.
+        
+    This project is licensed under a custom license:
+    You may use, copy, and modify the code for personal or non-profit purposes for free.
+        
+    If you wish to use the code in any commercial or for-profit product, you must contact the author and may be required to pay a fee
+    or share profits.
+        
+    © 2025 Ron Haba and Matan Sides. 
+    All rights reserved.
